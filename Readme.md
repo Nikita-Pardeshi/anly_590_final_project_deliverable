@@ -1,3 +1,9 @@
+# Great Barrier Reef COTS Detection
+
+<i>Aashika Padmanabhan, Nikita Pardeshi, Mitali Shah, Shazia Sulaiman, Rae Zhang</i>
+
+
+
 The Great Barrier Reef is the world’s largest coral reef system. Coral reefs are home to over 7000 species and providers of important services including fisheries, medicines, tourism etc. Coral reefs are in great danger with the planet having lost 50% of it. Coral predation by Crown-of-thorns-starfish (COTS) accounted for 42% coral loss. Hence, detection and control of COTS will have a huge impact on coral reef protection. Through this project we intend to use the images collected by The Great Barrier Reef foundation and detect the presence of COTS using State of Art Neural Network models. This is also one of the Kaggle competitions and we have extracted the data from Kaggle which mainly contained all the image frames from three videos and train and test csv files. 
 
 #### Models Used
