@@ -2,9 +2,7 @@
 
 <i>Aashika Padmanabhan, Nikita Pardeshi, Mitali Shah, Shazia Sulaiman, Rae Zhang</i>
 
-
-
-The Great Barrier Reef is the world’s largest coral reef system. Coral reefs are home to over 7000 species and providers of important services including fisheries, medicines, tourism etc. Coral reefs are in great danger with the planet having lost 50% of it. Coral predation by Crown-of-thorns-starfish (COTS) accounted for 42% coral loss. Hence, detection and control of COTS will have a huge impact on coral reef protection. Through this project we intend to use the images collected by The Great Barrier Reef foundation and detect the presence of COTS using State of Art Neural Network models. This is also one of the Kaggle competitions and we have extracted the data from Kaggle which mainly contained all the image frames from three videos and train and test csv files. 
+The Great Barrier Reef is the world’s largest coral reef system. Coral reefs are home to over 7000 species and providers of important services including fisheries, medicines, tourism etc. Coral reefs are in great danger with the planet having lost 50% of it. Coral predation by Crown-of-thorns-starfish (COTS) accounted for 42% coral loss. Hence, detection and control of COTS will have a huge impact on coral reef protection. Through this project we intend to use the images collected by The Great Barrier Reef foundation and detect the presence of COTS using State of Art Neural Network models. This is one of the Kaggle competitions and we have extracted the data from Kaggle which mainly contained all the image frames from three videos and train and test csv files. 
 
 #### Models Used
 
@@ -18,4 +16,5 @@ Due to the vast size of the models, dataset etc., we have put all the relevant f
 * Drive folder with all Faster -RCNN relevant files: 
 https://drive.google.com/drive/u/1/folders/1WPk0_J3Ptce07a7UTxrVOT9svdRE_HgF 
 
-
+### Referred Kaggle link - 
+1. TensorFlow - Help Protect the Great Barrier Reef | Kaggle. (n.d.). https://www.kaggle.com/competitions/tensorflow-great-barrier-reef 
