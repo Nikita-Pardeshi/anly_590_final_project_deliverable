@@ -10,7 +10,7 @@ We have finalized on 2 models - Faster RCNN and YOLOv5 majorly due to their spee
 
 #### Folder structure details
 
-Each model related information are separated into 2 modules/ folders and provided here each of which contains a model and result fodler. To get a detailed understanding of the project, it might be a good idea to start on the Project Summary.
+Each model related information are separated into 2 modules/ folders and provided here each of which contains a model and result folder. To get a detailed understanding of the project, it might be a good idea to start on the Project Summary.
 
 #### Relevant Folders
 
@@ -22,3 +22,4 @@ https://drive.google.com/drive/u/1/folders/1WPk0_J3Ptce07a7UTxrVOT9svdRE_HgF
 
 #### Referred Kaggle link - 
 1. TensorFlow - Help Protect the Great Barrier Reef | Kaggle. (n.d.). https://www.kaggle.com/competitions/tensorflow-great-barrier-reef 
+2. All references/ Citations used in this project have been updated in the Project Summary document
