@@ -8,6 +8,10 @@ The Great Barrier Reef is the world’s largest coral reef system. Coral reefs a
 
 We have finalized on 2 models - Faster RCNN and YOLOv5 majorly due to their speed and accuracy. 
 
+#### Folder structure details
+
+Each model related information are separated into 2 modules/ folders and provided here each of which contains a model and result fodler. To get a detailed understanding of the project, it might be a good idea to start on the Project Summary.
+
 #### Relevant Folders
 
 Due to the vast size of the models, dataset etc., we have put all the relevant files under organized folders as below. 
